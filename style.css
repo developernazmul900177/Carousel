@@ -1,0 +1,16 @@
+.carousel-caption{
+    margin-bottom: 15%;
+    transform: translateY(-15%);
+}
+h1{
+    color: rgb(248, 141, 0);
+}
+p{
+    width: 80%;
+    font-size: 20px;
+    color: rgb(248, 141, 0);
+    
+}
+img{
+    height: 100vh;
+}
